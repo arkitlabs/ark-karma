@@ -1,9 +1,0 @@
-# 9797663
-
-```@orgs/v1/slip
-ID: SLIP-9797663-dfd339c
-CREATE_TIME: 2024-10-30:09:34:23
-TAGS: UNASSIMILATED
-CREATOR: amas
-```
-## 背景介绍 
