@@ -18,7 +18,7 @@ amas
 $ ark orgs add https://github.com/arkitlabs/ark-karma.git # 增加一个远程组织
 $ ark orgs ls
 amas
-ark-ark-karma
+ark-karma
 $ ark slip -n ark-karma # 查看ark-karma下的SLIPS
 $ ark use ark-karma     # 改变default orgs (注意：目前没有限制切换到远程组织，所以修改后其实slip add等操作都会直接发生在这个仓库里，正常流程应该是使用ark publish功能)
 
